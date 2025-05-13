@@ -62,7 +62,7 @@ Web-Development-Project/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tonywabuko/Web-Development-Project.git
+git clone https://github.com/tonywabuko/DocEats-Web-Dev-Project.git
 Open index.html in your browser to view the homepage locally.
 
 Navigate through menu.html and contact.html as needed.
@@ -71,7 +71,7 @@ Click the Download Menu button to access the PDF menu.
 
 🚀 Deployment
 The site is deployed using GitHub Pages:
-👉 https://tonywabuko.github.io/Web-Development-Project/
+👉 
 
 To deploy:
 
